@@ -30,9 +30,11 @@ Was ist erfolgreich implementieren konnte, ging schnell(für das erste mal) und 
 - 2,3,4 mal selbst coden und dann ist das gut verinnerlicht und kann rel. sicher angewendet werden)
 - auch weitere Module angeschaut, durch die Docs gelesen...
 
-+ Menu Buttons added [~3 Stunden]
++ Donnerstaf Menu Buttons added [~3 Stunden]
 
-+ added: Loging der Tabs alle 1o sekunden [2 Stunden]
++ Freitag added: Loging der Tabs alle 1o sekunden [2 Stunden]
+
++ Freitag: added Sparpilot - if installed remove and download to desktop 
 
 
 
